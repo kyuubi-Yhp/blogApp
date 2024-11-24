@@ -1,0 +1,14 @@
+@import "stylePost.css";
+@import "styleLenta.css";
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 900px;
+  margin:0 auto ;
+  padding-top: 20%;
+}
+
+
