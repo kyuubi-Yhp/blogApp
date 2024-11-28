@@ -24,8 +24,17 @@ margin-bottom: 15px;
   margin-bottom: 20px;
 }
 .relise__btn {
+  margin-bottom: 15px;
   background-color: blueviolet;
   border-radius: 10px;
   width: 200px;
   height: 40px;
+}
+
+.validationMessage { 
+  color: red;
+}
+
+.validationMessage__hidden {
+  display: none;
 }
